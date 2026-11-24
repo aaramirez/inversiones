@@ -8,17 +8,21 @@ Este repositorio solo tiene el sitio generado. El curso está en preparación: l
 
 | # | Capítulo |
 |---|---|
-| 01 | Activos financieros y mercados |
+| 01 | Activos financieros, mercados y sus datos |
 | 02 | Riesgo, diversificación y la intuición del portafolio |
-| 03 | Acciones, índices y fondos |
-| 04 | Bonos: precio y rendimiento |
+| 03 | Acciones, eventos corporativos e índices |
+| 04 | Bonos: precio, rendimiento y convenciones |
 | 05 | La curva de rendimientos |
-| 06 | Duración y convexidad |
-| 07 | Inmunización, riesgo de crédito y bonos con opciones |
-| 08 | Forwards y futuros |
-| 09 | Swaps de tasas y de divisas |
+| 06 | Duración, convexidad e inmunización |
+| 07 | Riesgo de crédito y bonos con opciones, indexados y flotantes |
+| 08 | Forwards, futuros y la cámara de compensación |
+| 09 | Swaps de tasas y de divisas, y el contrato como dato |
 | 10 | Opciones: pagos, estrategias y paridad |
 | 11 | Valorar opciones con el árbol binomial |
-| 12 | Divisas: tipo de cambio, paridades y cobertura |
-| 13 | Productos estructurados |
-| 14 | Armar y medir una cartera |
+| 12 | Divisas: tipo de cambio, paridades, plataformas y cobertura |
+| 13 | Productos estructurados y titularización |
+| 14 | Armar, operar y medir una cartera |
+| 15 | Datos de mercado y de referencia: identificadores, precios y eventos |
+| 16 | Fondos y ETF por dentro: el valor liquidativo y la creación de cuotas |
+| 17 | Plataformas de inversión y asesores automatizados |
+| 18 | Activos tokenizados: bonos, fondos y dinero en una cadena de bloques |
